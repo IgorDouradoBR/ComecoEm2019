@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VolumeSolidos()
+comment1.params=raio
+comment1.target=double\ volumeEsfera(double)
+comment2.params=raio\ altura
+comment2.target=double\ volumeCone(double,\ double)
+comment3.params=raio\ altura
+comment3.target=double\ volumeCilindro(double,\ double)
+comment4.params=lado
+comment4.target=double\ volumeCubo(double)
+comment5.params=largura\ altura\ comprimento
+comment5.target=double\ volumeParalelepipedo(double,\ double,\ double)
+numComments=6

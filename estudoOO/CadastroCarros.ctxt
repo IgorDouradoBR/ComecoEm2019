@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=tamanho
+comment0.target=CadastroCarros(int)
+comment1.params=c
+comment1.target=boolean\ adicionaNoVetor(Carro)
+comment10.params=v
+comment10.target=Carro[]\ fabricadosAPartir2000_2(Carro[])
+comment11.params=v
+comment11.target=Carro[]\ fabricadosAPartir2000(Carro[])
+comment2.params=placa
+comment2.target=Carro\ pesquisaNoVetor(java.lang.String)
+comment3.params=placa
+comment3.target=int\ pesquisarPosicao(java.lang.String)
+comment4.params=placa
+comment4.target=boolean\ removeDoVetor(java.lang.String)
+comment5.params=
+comment5.target=void\ imprimeVetor()
+comment6.params=
+comment6.target=Carro[]\ getCarro()
+comment7.params=v
+comment7.target=int\ contaFabricadosAzuis(Carro[])
+comment8.params=v
+comment8.target=Carro[]\ fabricadosAzuis(Carro[])
+comment9.params=v
+comment9.target=int\ contaFabricadosAPartirDe2000(Carro[])
+numComments=12

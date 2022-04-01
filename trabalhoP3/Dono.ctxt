@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Dono
+comment1.params=nome\ cpf
+comment1.target=Dono(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=int\ getCpf()
+comment4.params=nome
+comment4.target=void\ setNome(java.lang.String)
+comment5.params=cpf
+comment5.target=void\ setCpf(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

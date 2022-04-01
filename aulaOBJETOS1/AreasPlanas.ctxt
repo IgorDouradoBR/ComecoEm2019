@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AreasPlanas()
+comment1.params=lado
+comment1.target=double\ areaQuadrado(double)
+comment2.params=base\ altura
+comment2.target=double\ areaTriangulo(double,\ double)
+comment3.params=base\ altura
+comment3.target=double\ areaRetangulo(double,\ double)
+comment4.params=raio
+comment4.target=double\ areaCirculo(double)
+numComments=5

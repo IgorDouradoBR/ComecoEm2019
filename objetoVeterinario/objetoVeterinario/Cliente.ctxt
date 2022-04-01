@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Cliente
+comment0.text=\r\n\ PetShop\r\n\ @author\ (Igor\ Vicente)\r\n\ @version\ (30/10/2019)\r\n
+comment1.params=nome\ cpf\ pet
+comment1.target=Cliente(java.lang.String,\ long,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=long\ getCpf()
+comment4.params=
+comment4.target=java.lang.String\ getPet()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=cpf
+comment6.target=void\ setCpf(long)
+comment7.params=pet
+comment7.target=void\ setPet(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

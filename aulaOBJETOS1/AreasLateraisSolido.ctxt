@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AreasLateraisSolido()
+comment1.params=raio
+comment1.target=double\ superficieEsfera(double)
+comment2.params=raio\ geratriz
+comment2.target=double\ superficieCone(double,\ double)
+comment3.params=raio\ altura
+comment3.target=double\ areaLCilindro(double,\ double)
+comment4.params=lado
+comment4.target=double\ areaLCubo(double)
+comment5.params=largura\ altura\ comprimento
+comment5.target=double\ areaLParalelepipedo(double,\ double,\ double)
+numComments=6
