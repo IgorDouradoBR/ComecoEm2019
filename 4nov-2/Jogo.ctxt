@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Jogo
+comment1.params=tit\ val
+comment1.target=Jogo(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getTitulo()
+comment3.params=
+comment3.target=double\ getValorLocacao()
+comment4.params=novo
+comment4.target=void\ setTitulo(java.lang.String)
+comment5.params=valor
+comment5.target=void\ setvalorLocacao(double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

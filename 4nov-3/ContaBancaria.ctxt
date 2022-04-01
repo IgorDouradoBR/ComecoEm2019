@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=nomeTitular\ numConta
+comment0.target=ContaBancaria(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getNomeTitular()
+comment10.params=valor
+comment10.target=java.lang.String\ contaCedulas(int)
+comment2.params=
+comment2.target=java.lang.String\ getNumConta()
+comment3.params=
+comment3.target=double\ getSaldo()
+comment4.params=nomeTitular
+comment4.target=void\ setNomeTitular(java.lang.String)
+comment5.params=numConta
+comment5.target=void\ setNumConta(java.lang.String)
+comment6.params=saldo
+comment6.target=void\ setSaldo(double)
+comment7.params=valor
+comment7.target=void\ sacar(double)
+comment8.params=valor
+comment8.target=void\ depositar(double)
+comment9.params=contaOrigem\ valor
+comment9.target=void\ transferir(ContaBancaria,\ double)
+numComments=11
